@@ -13,4 +13,4 @@ This Application helps you to get to know about your water tank level in Mobile 
 3. Router
 4. Ultrasonic sensor
 5. Power Source
-![Image](Water-Tank-Project.PNG)
+![Image](WaterTankProject.PNG)
