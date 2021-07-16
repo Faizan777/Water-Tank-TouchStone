@@ -4,7 +4,7 @@ This Application helps you to get to know about your water tank level in Mobile 
 
 *Stack used*
 1. React Native (Mobile Application Development)
-2. Arduino IDE (For uploading code to Node MCU)
+2. Arduino IDE 
 
 *Harware Requirement*
 
